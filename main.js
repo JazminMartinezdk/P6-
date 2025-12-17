@@ -1,5 +1,5 @@
 
-console.log("Static version loaded ✨");
+console.log("Static version loaded ");
 
 
 const animatedElements = document.querySelectorAll(".fade-in");
@@ -44,7 +44,7 @@ function loadCreativePrograms_STATIC() {
                 {
                     label: "Mænd",
                     data: men,
-                    backgroundColor: "rgba(26,42,79,0.7)"
+                    backgroundColor: "rgba(110,110,110,0.85)"
                 }
             ]
         },
